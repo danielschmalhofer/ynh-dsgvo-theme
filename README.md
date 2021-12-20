@@ -1,3 +1,5 @@
+Desclaimer: Not working yet!
+
 ## Overview
 DSGVO Theme for YunoHost
 
